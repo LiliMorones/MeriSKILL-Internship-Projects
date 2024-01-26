@@ -1,5 +1,5 @@
 # MeriSKILL-Internship-Projects
-Projects I completed during the MeriSKILL virtual internships as a Data Analyst: 
+Projects I completed during the MeriSKILL virtual internship as a Data Analyst: 
 
 ## 1. Sales Analysis
 ### Purpose: 
