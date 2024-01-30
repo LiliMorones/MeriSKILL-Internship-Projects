@@ -5,7 +5,7 @@ Projects I completed during the MeriSKILL virtual internship as a Data Analyst:
 ### Purpose: 
 Analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making.
 ### Tools:
-Excel | Power Query
+Excel | Pivot Tables | Power Query
 
 ## 2. HR Analytics
 ### Purpose:
